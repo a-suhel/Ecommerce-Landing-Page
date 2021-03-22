@@ -105,7 +105,10 @@ h2,h1,h3{
 }
 .fourth-div{
     background: url(../img/paris-desktop-1.png);
+    background-size: contain;
     background-repeat: no-repeat;
+    padding-top: 500px; 
+      padding-bottom: 0px;
 }
 .fifth{
     background:rgb(223, 170, 26); 
