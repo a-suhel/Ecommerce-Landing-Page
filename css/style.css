@@ -1,0 +1,145 @@
+body { overflow-x: hidden; /* Hide scrollbars */ }
+
+/* *{
+    background: #000 !important;
+    color: #0f0 !important;
+    outline: solid #f00 1px !important;
+  } */
+
+  body{
+    font-family: Roboto;
+  } */
+
+.space{
+    margin-right: 1vw;
+}
+#navbarCollapse{
+    justify-content:flex-end;
+}
+.main-title{
+    font-size: 1.5rem;
+     font-weight:700;
+}
+.nav-link{
+    font-weight: bold;
+}
+.first{
+ background-image: linear-gradient(to right, rgba(15, 15, 15, 0.527), rgba(15, 15, 15, 0.527))
+    ,url(/img/1.jpg);
+     background-position: center; 
+     background-size: cover; 
+     padding-top: 120px; 
+     padding-bottom: 120px;
+}
+
+.btn-one{
+    font-size: 1rem;
+     border-radius: 0%;
+      font-weight: bold;
+}
+.powerful-features{
+    font-weight: bold;
+}
+h2,h1,h3{
+    font-weight: bold;
+}
+.check-1{
+    margin-left: -35px; color: rgb(26, 151, 223);
+}
+
+.demos{
+    font-size: 1rem;
+     border-radius: 5px;
+     font-weight: normal;
+}
+
+.prof-services{
+    background-image: linear-gradient(to right, rgba(15, 15, 15, 0.13), rgba(15, 15, 15, 0.13))
+    ,url(/img/3.jpg); 
+    background-position: center;
+    background-size: cover;
+    padding-top: 70px;
+     padding-bottom: 70px;
+}
+.second{
+    background: rgb(226, 225, 225); 
+    background-position: center;
+     background-size: cover; 
+     padding-top: 100px; 
+     padding-bottom: 100px;
+}
+.third{
+    background-image: linear-gradient(to right, rgba(15, 15, 15, 0.13), rgba(15, 15, 15, 0.13))
+    ,url(/img/girl-phone.jpg);
+     background-position: center; 
+     background-size: cover; 
+     padding-top: 80px;
+      padding-bottom: 80px;
+}
+
+.all-features-btn{
+    font-size: 1rem;
+     border-radius: 0%;
+      font-weight: normal;
+}
+.third{
+    background-image: linear-gradient(to right, rgba(15, 15, 15, 0.13), rgba(15, 15, 15, 0.13))
+    ,url(/img/girl-phone.jpg);
+     background-position: center;
+      background-size: cover;
+       padding-top: 80px; 
+       padding-bottom: 80px;
+}
+.fourth{
+    background-image:
+    url(/img/icon-pattern.jpg);
+     background-size: contain; 
+     background-repeat: repeat;
+      padding-left: 50px; 
+      padding-top: 100px; 
+      padding-bottom: 100px;
+}
+.fourth-p{
+    line-height: 30px; 
+    font-size: 1.2rem;
+}
+.fourth-div{
+    background: url(../img/paris-desktop-1.png);
+    background-repeat: no-repeat;
+}
+.fifth{
+    background:rgb(223, 170, 26); 
+    background-position: center; background-size: cover; padding-top: 80px; padding-bottom: 80px;
+}
+.sixth{
+    background:rgb(231, 230, 230); 
+    background-position: center;
+     background-size: cover;
+      padding-top: 60px;
+       padding-bottom: 20px;
+}
+.fa-sm{
+    margin-left: -35px; color: rgb(223, 170, 26);
+}
+.my-btn{
+    font-size: 1rem; 
+    border-radius: 4px;
+    font-weight: bold;
+}
+.my-btn-2{
+
+    font-size: 1rem; border-radius: 5px; font-weight: bold;
+}
+
+.fa-trophy{
+     
+    color: rgb(255, 255, 255);
+}
+.seventh{
+    background:#333; 
+    background-position: center;
+     background-size: cover;
+      padding-top: 10px;
+       padding-bottom: 10px;
+}
+
